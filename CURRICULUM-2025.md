@@ -95,7 +95,7 @@
 | ABM3123 | IoT Güvenliği |
 | ABM3125 | Ağ Programlama |
 
-Ayrıca **Sosyal Seçmeli Ders-III** bulunur. PDF'de bu dersin özel adı belirtilmemiştir.
+Ayrıca **SSD3101 — Sosyal Seçmeli Ders-III** bulunur.
 
 ### VI. Yarıyıl
 
@@ -122,7 +122,7 @@ Ayrıca **Sosyal Seçmeli Ders-III** bulunur. PDF'de bu dersin özel adı belirt
 | ABM3124 | Sızma Testi Teknikleri |
 | ABM3126 | Doğal Dil İşleme |
 
-Ayrıca **Sosyal Seçmeli Ders-IV** bulunur. PDF'de bu dersin özel adı belirtilmemiştir.
+Ayrıca **SSD3102 — Sosyal Seçmeli Ders-IV** bulunur.
 
 ## 4. Sınıf
 
@@ -145,11 +145,11 @@ Dördüncü sınıfta iş yeri eğitiminin VII. veya VIII. yarıyılda yapılmas
 |---|---|---|
 | ABM4102 | Bitirme Projesi | Zorunlu |
 | ABM4104 | Delil Analizi | Zorunlu |
-| — | Alan Seçmeli Dersler | Seçmeli |
+| — | Dört Alan Seçmeli Ders | Seçmeli |
 
 ### İş yeri eğitiminin VIII. yarıyılda yapıldığı düzen
 
-**VII. Yarıyıl:** Bitirme Projesi (ABM4102), Delil Analizi (ABM4104) ve alan seçmeli dersler.
+**VII. Yarıyıl:** Bitirme Projesi (ABM4102), Delil Analizi (ABM4104) ve dört alan seçmeli ders.
 
 **VIII. Yarıyıl:** İş Yeri Eğitimi (ABM4101), İş Yeri Eğitimi Uygulaması (ABM4103), Mesleki Uygulama-I (ABM4105) ve Mesleki Uygulama-II (ABM4107).
 
@@ -159,20 +159,20 @@ Dördüncü sınıfta iş yeri eğitiminin VII. veya VIII. yarıyılda yapılmas
 |---|---|
 | ABM4106 | Kriptoloji |
 | ABM4108 | İnsan Bilgisayar Etkileşimi |
-| ABM4110 | Zafiyet Analizi |
+| ABM4110 | Zaafiyet Analizi |
 | ABM4112 | Zararlı Yazılım Analizi |
 | ABM4114 | Etik Hacker ve Uygulamaları |
 | ABM4116 | Siber Suç Takibi |
 | ABM4118 | Prompt Mühendisliği |
 | ABM4120 | Kablosuz Ağ Güvenliği |
-| ABM4122 | Siber Güvenlikte Yapay Zeka Uygulamaları |
-| ABM4124 | Adli Bilişim ve Siber Güvenlikte Gelecek Yaklaşımları |
+| ABM4122 | Siber Güvenlikte Yapay Zeka Uygulamalar |
+| ABM4124 | Adli Bilişim ve Siber Güvenlikte Gelecek Yaklaşımlar |
 | ABM4126 | Konuşma Tanıma ve Üretme |
 | ABM4128 | Hareketli Yazılım Geliştirme |
 | ABM4130 | Sayısal Görüntü İşleme Teknikleri |
 | ABM4132 | Karar Destek Sistemleri |
 | ABM4134 | Bilgisayarlı Görü |
-| ABM4136 | Mobil Uygulama Yazılım Geliştirme |
+| ABM4136 | Mobil Uygulama Yazılımı Geliştirme |
 | ABM4138 | Web Sitesi Kullanılabilirliği |
 | ABM4140 | Yapay Zeka |
 | ABM4142 | Bilişim Etiği |
