@@ -13,6 +13,7 @@
 - [x] Yeni önerilen ders kodları esas alındı.
 - [x] Zorunlu ve seçmeli dersler ayrıldı.
 - [x] Dördüncü sınıftaki iki iş yeri eğitimi yerleşimi not edildi.
+- [x] 2025 müfredatındaki 84 ders için ayrı başlangıç sayfaları oluşturuldu.
 - [ ] Ders listesi ve ders içerikleri sayfasıyla her dersin haftalık içeriğini tek tek eşleştir.
 
 ### Aşama 1 — Kaynak haritası
@@ -25,6 +26,8 @@
 - [ ] Kırık bağlantıları ve eski sürümleri takip et.
 
 ### Aşama 2 — Ders başına içerik oluşturma
+
+**Durum:** 84 ders sayfası PLANNED şablonuyla oluşturuldu. Henüz tam ders notu olarak yayımlanmış değiller; her birinin resmî haftalık kapsamı ve kaynakları ayrıca doğrulanacak.
 
 Her ders için [Ders Notu Şablonu](templates/COURSE-TEMPLATE.md) kullanılacaktır.
 
