@@ -99,7 +99,7 @@ Türkçe kaynaklar:
 |---|---|---|
 | [Fahri Vatansever — Algoritma Geliştirme ve Programlamaya Giriş, 16. baskı (2025)](https://www.seckin.com.tr/kitap/algoritma-gelistirme-ve-programlamaya-giris-akis-diyagramlariyla-birlikte-6-ayri-programlama-dilinde-c-c-c-java-matlab-ve-python-cozulmus-problemler-fahri-vatansever-s-p-836218431) | Algoritma, akış şeması, programlama ve çözümlü problemler | Türkçe basılı kitap; ücretli olabilir. |
 | [BTK Akademi — C++ ile Programlamaya Giriş](https://www.btkakademi.gov.tr/portal/tr/course/20172) | C++ temel konuları ve uygulamalar | Türkçe video eğitimi; giriş gerekebilir. Daha ileri konular da içerdiğinden ders kapsamına uyan bölümler seçilmeli. |
-| [Kavax — C++ Dersleri: 1 Saatte Tamamen C++ Öğren](https://www.youtube.com/watch?v=Hz6Sug8fbH4) | İlk program, değişkenler, girdi, işlemler, koşullar ve döngülere hızlı giriş | Türkçe video; tek başına tam ders yerine geçmez. |
+| [Kavax — C++ Dersleri: 1 Saatte Tamamen C++ Öğren](https://www.youtube.com/watch?v=Hz6Sug8fbH4) | İlk program, değişkenler, girdi, işlemler, koşullar ve döngülere hızlı giriş | Türkçe video; 25:14 değişkenler, 35:57 girdi, 52:28 koşullar, 01:04:29 döngüler. Tek başına tam ders yerine geçmez. |
 | [ABM1101 ders notu](dersler/1-sinif/1-yariyil/abm1101-algoritma-ve-programlama-i.md) | Konu anlatımı ve çalışma sırası | Bu depoda hazırlanıyor. |
 | [ABM1101 alıştırmaları](dersler/1-sinif/1-yariyil/abm1101-alistirmalar.md) | Özgün sorular ve çözümler | Geçmiş sınav değildir. |
 
