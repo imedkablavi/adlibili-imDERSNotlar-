@@ -10,7 +10,7 @@
 
 ## Bu derste neler öğrenilecek?
 
-Dersin amacı, bölümün yayımladığı ders içeriğine dayanarak kısa ve anlaşılır biçimde yazılır. Kesin öğrenme çıktıları bulunmadan tahmin yürütülmez.
+Dersin amacı, bölümün yayımladığı güncel ders içeriğine dayanarak kısa ve anlaşılır biçimde açıklanır. Resmî öğrenme çıktıları bulunmadan tahmin yürütülmez.
 
 ## Konu sırası
 
@@ -23,11 +23,7 @@ Dersin amacı, bölümün yayımladığı ders içeriğine dayanarak kısa ve an
 
 ### [Konu adı]
 
-- Konunun açıklaması.
-- Nerede kullanıldığı.
-- Gerekli tanım ve kavramlar.
-- Küçük bir örnek.
-- Sık yapılan hata veya karıştırılan nokta.
+Konunun ne olduğu, nasıl çalıştığı ve nerede kullanıldığı açıklanır. Tanımdan sonra küçük bir örnek verilir. Öğrencilerin sık karıştırdığı noktalar ayrıca belirtilir.
 
 ## Ders videoları
 
@@ -35,7 +31,7 @@ Dersin amacı, bölümün yayımladığı ders içeriğine dayanarak kısa ve an
 |---|---|---|---|---|
 | [Konu] | [Bağlantı] | Türkçe / İngilizce | Başlangıç / Orta / İleri | [Erişim bilgisi] |
 
-Türkçe video bulunamazsa İngilizce videonun hangi eksikliği tamamladığı belirtilir.
+Önce Türkçe video aranır. Uygun bir anlatım bulunamazsa İngilizce video eklenir ve neden gerekli olduğu yazılır.
 
 ## Kitaplar ve başvuru kaynakları
 
@@ -45,26 +41,21 @@ Türkçe video bulunamazsa İngilizce videonun hangi eksikliği tamamladığı b
 
 ## Örnekler ve uygulamalar
 
-### Örnek 1
-
 **Soru veya görev:** [Açıklama]
 
-**Çözüm:** [Adımlar]
+**Çözüm:** [Adım adım çözüm]
 
 **Sonuç:** [Kontrol edilecek çıktı]
 
 ## Alıştırmalar
 
 ### Başlangıç düzeyi
-
 1. [Özgün soru]
 
 ### Orta düzey
-
 1. [Özgün soru]
 
 ### İleri düzey
-
 1. [Özgün soru]
 
 ## Sınava hazırlık
@@ -73,7 +64,7 @@ Türkçe video bulunamazsa İngilizce videonun hangi eksikliği tamamladığı b
 |---|---|---|---|
 | [Bağlantı veya dosya] | [Yıl] | [Vize / Final / Bütünleme] | [Doğrulandı / Özgün alıştırma / Doğrulanmadı] |
 
-Ayrıntılar için [sınav arşivi kurallarına](../../SINAV-ARSIVI.md) bakın.
+Ayrıntılar için [sınav arşivi kurallarına](../SINAV-ARSIVI.md) bakın.
 
 ## Terimler
 

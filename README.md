@@ -7,7 +7,7 @@ Bu depoda anlatım dili Türkçedir. İngilizce kaynaklar, Türkçe bir anlatım
 ## Nereden başlanmalı?
 
 - [Ders kataloğu](2025-MUFREDATI.md)
-- [Ders sayfaları](dersler/INDEX.md)
+- [Ders sayfaları](dersler/DERS-LISTESI.md)
 - [Kaynak rehberi](KAYNAK-REHBERI.md)
 - [Uygulama planı](UYGULAMA-PLANI.md)
 - [Sınav arşivi kuralları](SINAV-ARSIVI.md)
