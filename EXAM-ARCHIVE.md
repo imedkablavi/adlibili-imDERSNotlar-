@@ -4,6 +4,10 @@
 
 Öğrencilerin geçmiş sınavlardan ve özgün alıştırmalardan yararlanmasını sağlarken yanlış etiketleme, telif ihlali, kişisel veri ifşası ve yanıltıcı cevap anahtarı risklerini önlemek.
 
+## İlk envanter durumu
+
+2026-11-01 tarihli ilk halka açık kaynak taramasında bölümün ders/müfredat sayfaları ve sınav takvimi duyuruları bulundu; ancak doğrulanmış soru kitapçığı veya geçmiş sınav PDF'si tespit edilmedi. Bu nedenle arşiv henüz boş kabul edilir. Sınav programları soru kitapçığı olarak eklenmeyecektir. Yeni bir materyal sağlandığında aşağıdaki doğrulama sürecinden geçirilir.
+
 ## 1. Materyal türleri
 
 | Etiket | Anlamı | Yayın koşulu |
