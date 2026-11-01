@@ -8,7 +8,7 @@ Bu dosya, ders sayfalarında kullanılacak güvenilir kaynakların ana listesidi
 |---|---|---|
 | [Fırat Üniversitesi Adli Bilişim Mühendisliği](https://abmtf.firat.edu.tr/tr) | Bölüm duyuruları ve akademik bilgiler | İlk başvurulacak resmî kaynak |
 | [Ders Listesi](https://abmtf.firat.edu.tr/page/3310) | Ders kodları ve müfredat | Öğrencinin giriş yılına göre kontrol edilmeli |
-| [Ders İçerikleri](https://abmtf.firat.edu.tr/page/3315) | Derslerin amaçları ve konu kapsamı | Her ders sayfası hazırlanırken incelenmeli |
+| [Ders İçerikleri](https://abmtf.firat.edu.tr/page/3311) | Derslerin amaçları ve konu kapsamı | Her ders sayfası hazırlanırken incelenmeli |
 | [2025 Ders Müfredatı](https://abmtf.firat.edu.tr/subdomain_files/abmtf.firat.edu.tr/files/2511/2025%20Ders%20M%C3%BCfredat%C4%B1%C4%B1.pdf) | Dört yıllık ders listesi | Bu deponun ana müfredat kaynağı |
 | [Ertam Uzaktan Eğitim](https://ders.ertam.com/) | Öğretim elemanlarının ders materyalleri | Bazı içerikler için üniversite hesabı gerekebilir. Eski ders kayıtları güncel izlenceyle karşılaştırılmalı. İçerikler izinsiz kopyalanmamalı. |
 
