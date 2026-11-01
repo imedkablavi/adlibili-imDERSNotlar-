@@ -532,10 +532,20 @@ Alıştırmalar ve çözümleri ayrı dosyada tutulur:
 **Üniversite kaynakları:**
 
 - [2025 Adli Bilişim Mühendisliği müfredatı](https://abmtf.firat.edu.tr/subdomain_files/abmtf.firat.edu.tr/files/2511/2025%20Ders%20M%C3%BCfredat%C4%B1%C4%B1.pdf)
-- [Bölümün ders içerikleri sayfası](https://abmtf.firat.edu.tr/page/3315)
+- [Bölümün ders içerikleri sayfası](https://abmtf.firat.edu.tr/page/3311)
 - [Bölümün ders listesi](https://abmtf.firat.edu.tr/page/3310)
 
-## 19. Henüz doğrulanması gerekenler
+## 19. Geçmiş ders içeriğinden gelen ek başlıklar
+
+Bölümün 2020 müfredatında ABM105 adıyla yayımladığı eski ders içeriğinde işlevler, özyineleme, vektör ve matris gösterimleri, karakter işlemleri, diziler, bağlı listeler, arama-sıralama algoritmaları ve dosyalar da yer alır. Bu liste, 2025 ABM1101 için birebir güncel izlence değildir.
+
+- [2020 tarihli geçmiş ders içeriği](./gecmis-ders-icerigi-2020.md)
+- [Ek konular ve uygulamalar](./abm1101-ek-konular-ve-uygulamalar.md)
+- [Özgün deneme sınavı 01](./abm1101-deneme-sinavi-01.md)
+
+Bu ek dosyalar, eski ders kapsamındaki konuları tekrar etmek isteyen öğrenciye yardımcı olur. 2025 dersinde hangi konuların işlendiği öğretim elemanının güncel izlencesiyle kesinleştirilmelidir.
+
+## 20. Henüz doğrulanması gerekenler
 
 - Bölümün ABM1101 için yayımladığı güncel haftalık izlence.
 - İlk dönemde kullanılan programlama dili ve sürümü.
