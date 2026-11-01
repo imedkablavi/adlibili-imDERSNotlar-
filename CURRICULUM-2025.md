@@ -126,7 +126,7 @@ Ayrıca **SSD3102 — Sosyal Seçmeli Ders-IV** bulunur.
 
 ## 4. Sınıf
 
-Dördüncü sınıfta iş yeri eğitiminin VII. veya VIII. yarıyılda yapılmasına göre iki yerleşim gösterilmiştir. Öğrencinin izleyeceği yol kendi kayıt ve bölüm bilgilendirmesiyle teyit edilmelidir.
+Dördüncü sınıfta iş yeri eğitiminin VII. veya VIII. yarıyılda yapılmasına göre iki yerleşim gösterilmiştir. İş yeri eğitimi yapılmayan yarıyılda Bitirme Projesi, Delil Analizi ve dört alan seçmeli ders yer alır. Öğrencinin izleyeceği yol kendi kayıt ve bölüm bilgilendirmesiyle teyit edilmelidir.
 
 ### İş yeri eğitiminin VII. yarıyılda yapıldığı düzen
 
