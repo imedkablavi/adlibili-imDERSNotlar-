@@ -154,7 +154,7 @@ Buradaki mod işlemi bölme işleminden kalanı verir. 8 sayısının 2'ye böl�
 #include <iostream>
 
 int main() {
-    std::cout << "Merhaba Dunya!" << '\\n';
+    std::cout << "Merhaba Dunya!" << '\n';
     return 0;
 }
 ~~~
@@ -164,7 +164,7 @@ Kodun parçaları:
 - **iostream:** Ekrana yazma ve klavyeden veri alma işlemlerinde kullanılan başlık dosyasıdır.
 - **main:** Program çalıştığında ilk girilen ana işlevdir.
 - **std::cout:** Ekrana çıktı gönderir.
-- **\\n:** Bir alt satıra geçer.
+- **\n:** Bir alt satıra geçer.
 - **return 0:** Programın normal biçimde tamamlandığını bildirir.
 
 C++ dilinde komutların sonunda çoğunlukla noktalı virgül kullanılır. Açılan süslü parantezlerin de doğru yerde kapatılması gerekir.
@@ -184,11 +184,11 @@ int main() {
     bool incelemeTamamlandi = false;
     std::string dosyaAdi = "ornek.txt";
 
-    std::cout << "Dosya sayisi: " << dosyaSayisi << '\\n';
-    std::cout << "Ortalama boyut: " << ortalamaBoyut << '\\n';
-    std::cout << "Durum: " << durumKodu << '\\n';
-    std::cout << "Tamamlandi mi? " << incelemeTamamlandi << '\\n';
-    std::cout << "Dosya adi: " << dosyaAdi << '\\n';
+    std::cout << "Dosya sayisi: " << dosyaSayisi << '\n';
+    std::cout << "Ortalama boyut: " << ortalamaBoyut << '\n';
+    std::cout << "Durum: " << durumKodu << '\n';
+    std::cout << "Tamamlandi mi? " << incelemeTamamlandi << '\n';
+    std::cout << "Dosya adi: " << dosyaAdi << '\n';
 
     return 0;
 }
@@ -230,7 +230,7 @@ int main() {
     std::cout << "Yasinizi girin: ";
     std::cin >> yas;
 
-    std::cout << "Girdiginiz yas: " << yas << '\\n';
+    std::cout << "Girdiginiz yas: " << yas << '\n';
     return 0;
 }
 ~~~
@@ -357,7 +357,7 @@ Tekrar sayısı belli olduğunda kullanışlıdır.
 
 ~~~cpp
 for (int i = 1; i <= 5; i++) {
-    std::cout << i << '\\n';
+    std::cout << i << '\n';
 }
 ~~~
 
@@ -371,7 +371,7 @@ Tekrar sayısı önceden belli olmayabilir. Döngü, koşul doğru olduğu süre
 int sayi = 1;
 
 while (sayi <= 5) {
-    std::cout << sayi << '\\n';
+    std::cout << sayi << '\n';
     sayi++;
 }
 ~~~
@@ -408,9 +408,9 @@ Bir döngünün içinde başka bir döngü bulunabilir. Örneğin çarpım tablo
 int main() {
     for (int i = 1; i <= 5; i++) {
         for (int j = 1; j <= 5; j++) {
-            std::cout << i * j << "\\t";
+            std::cout << i * j << "\t";
         }
-        std::cout << '\\n';
+        std::cout << '\n';
     }
 
     return 0;
@@ -493,18 +493,18 @@ int main() {
 
     if (vize < 0 || vize > 100 ||
         finalNotu < 0 || finalNotu > 100) {
-        std::cout << "Notlar 0 ile 100 arasinda olmali.\\n";
+        std::cout << "Notlar 0 ile 100 arasinda olmali.\n";
         return 1;
     }
 
     double ortalama = vize * 0.40 + finalNotu * 0.60;
 
-    std::cout << "Ortalama: " << ortalama << '\\n';
+    std::cout << "Ortalama: " << ortalama << '\n';
 
     if (ortalama >= 60) {
-        std::cout << "Basarili\\n";
+        std::cout << "Basarili\n";
     } else {
-        std::cout << "Basarisiz\\n";
+        std::cout << "Basarisiz\n";
     }
 
     return 0;
