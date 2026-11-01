@@ -12,7 +12,7 @@
 | İçerik durumu | İlk ders notu hazırlandı; izlence eşleştirmesi bekliyor |
 | Son gözden geçirme | 01.11.2026 |
 
-> **Kapsam notu:** Üniversitenin 2025 müfredat belgesi ders kodunu, saatini ve kredisini doğruluyor. Bölümün bu ders için yayımladığı güncel haftalık konu çizelgesine şu an erişilemedi. Bu yüzden aşağıdaki konu sırası, birinci sınıf düzeyinde hazırlanmış bir çalışma planıdır; üniversitenin resmî haftalık izlencesi olarak gösterilmemelidir. Öğretim elemanının kullandığı programlama dili ve konu sırası açıklandığında notlar buna göre düzenlenecek.
+> **Kapsam notu:** Üniversitenin 2025 müfredat belgesi ders kodunu, saatini ve kredisini doğruluyor. Bölümün bu ders için yayımladığı güncel haftalık konu çizelgesine şu an erişilemedi. Bu yüzden aşağıdaki konu sırası, birinci sınıf düzeyinde hazırlanmış bir çalışma planıdır; üniversitenin resmî haftalık izlencesi olarak gösterilmemelidir. **2025 müfredat PDF'si programlama dilini belirtmiyor.** Bu ilk sürümde C++ örnekleri kullanıldı; bölümün güncel izlencesi veya öğretim elemanının duyurusu başka bir dil gösterirse örnekler ona göre değiştirilecek.
 
 ## 1. Bu ders neden var?
 
@@ -527,7 +527,7 @@ Alıştırmalar ve çözümleri ayrı dosyada tutulur:
 
 1. **Fahri Vatansever — Algoritma Geliştirme ve Programlamaya Giriş, 16. Baskı (2025).** Algoritma, akış şeması ve farklı dillerde çözümlü örnekler içerir. [Yayınevi sayfası](https://www.seckin.com.tr/kitap/algoritma-gelistirme-ve-programlamaya-giris-akis-diyagramlariyla-birlikte-6-ayri-programlama-dilinde-c-c-c-java-matlab-ve-python-cozulmus-problemler-fahri-vatansever-s-p-836218431).
 2. **BTK Akademi — C++ ile Programlamaya Giriş.** Türkçe video eğitimi. Kayıt/giriş gerekebilir. Kurs daha ileri konulara da geçtiği için bu derste yalnızca temel programlama konularına karşılık gelen bölümlerden yararlanılmalı. [Eğitim sayfası](https://www.btkakademi.gov.tr/portal/tr/course/20172).
-3. **Kavax — C++ Dersleri: 1 Saatte Tamamen C++ Öğren.** İlk program, değişkenler, girdi, matematiksel işlemler, koşullar ve döngülere hızlı bir giriş sağlar. Tek başına dersin tamamı için yeterli değildir. [Videoyu izle](https://www.youtube.com/watch?v=Hz6Sug8fbH4).
+3. **Kavax — C++ Dersleri: 1 Saatte Tamamen C++ Öğren.** İlk program, değişkenler, girdi, matematiksel işlemler, koşullar ve döngülere hızlı bir giriş sağlar. Videoda değişkenler 25:14, kullanıcıdan veri alma 35:57, koşullar 52:28 ve döngüler 01:04:29 civarında başlar. Tek başına dersin tamamı için yeterli değildir. [Videoyu izle](https://www.youtube.com/watch?v=Hz6Sug8fbH4).
 
 **Üniversite kaynakları:**
 
