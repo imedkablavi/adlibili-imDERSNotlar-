@@ -4,6 +4,18 @@
 
 2025 müfredatında bulunan dört yıllık derslerin her biri için Türkçe konu anlatımı, güvenilir kaynaklar, video dersleri, uygulamalar, alıştırmalar ve doğrulanmış sınav bilgileri hazırlamak.
 
+## İlk pilot çalışma: ABM1101
+
+**İlk içerik paketi oluşturuldu.** Aşağıdaki dosyalar yayımlandı:
+
+- Türkçe temel konu anlatımı ve C++ örnekleri.
+- Temel alıştırmalar ve açıklamalı çözümler.
+- 2020 tarihli eski ABM105 ders içeriğinin kaynaklı arşivi.
+- Eski izlencede bulunan ileri konular için ek çalışma dosyası.
+- Geçmiş sınav olmadığı açıkça belirtilen özgün deneme sınavı.
+
+**Bekleyen iş:** 2025 ABM1101 için güncel haftalık izlence veya öğretim elemanı tarafından verilen konu listesi bulunmalı. Eski ABM105 içeriği güncel izlencenin yerine geçmez.
+
 ## Aşama 1: Müfredatı ve ders içeriklerini doğrulama
 
 - [x] 2025 müfredat PDF'sini ana kaynak olarak belirle.
