@@ -104,3 +104,12 @@ Türkçe kaynaklar:
 | [ABM1101 alıştırmaları](dersler/1-sinif/1-yariyil/abm1101-alistirmalar.md) | Özgün sorular ve çözümler | Geçmiş sınav değildir. |
 
 **Kaynak seçerken dikkat:** Bölümün öğretim elemanının verdiği güncel notlar ve ders izlencesi, genel internet kaynaklarından önce gelir. BTK Akademi kursunda işaretçiler, nesne yönelimli programlama ve derleme araçları gibi ABM1101'in ötesine geçebilen konular da bulunur. Kısa videolar hızlı tekrar için uygundur; dersin tamamı yerine kullanılmamalıdır.
+
+
+## ABM1101 için bölümün geçmiş kayıtları
+
+- [2020 müfredatı ders içerikleri PDF'si](https://abmtf.firat.edu.tr/subdomain_files/abm.tf.firat.edu.tr/files/80/D%C3%B6k%C3%BCmanlar/Lisans/2020dersi%C3%A7erikleri.pdf) — ABM105 dersinin eski konu listesini içerir. 2025 ABM1101 izlencesi olarak kabul edilmemelidir.
+- [2024–2025 Güz Dönemi Ders Programı](https://abmtf.firat.edu.tr/announcements-detail/42588) — ABM105'in teori ve laboratuvar oturumlarıyla ilgili bölüm duyurusu.
+- [Siber Güvenlik Laboratuvarı](https://abmtf.firat.edu.tr/tr/page/5678) — Bölümün laboratuvarında ABM105 dersinin kullanıldığı belirtilir; sayfada DevC++ ve Visual Studio araçları da listelenir. Bu bilgi güncel ABM1101 için araç zorunluluğu anlamına gelmez.
+- [ABM1101 ek konular ve uygulamalar](dersler/1-sinif/1-yariyil/abm1101-ek-konular-ve-uygulamalar.md) — İşlevler, diziler, özyineleme, arama, sıralama ve dosya işlemleri için ek çalışma.
+- [ABM1101 özgün deneme sınavı 01](dersler/1-sinif/1-yariyil/abm1101-deneme-sinavi-01.md) — Geçmiş sınav değildir; çalışma amacıyla hazırlanmıştır.
