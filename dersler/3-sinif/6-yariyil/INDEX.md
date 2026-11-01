@@ -1,0 +1,16 @@
+# 3. Sınıf — 6. Yarıyıl
+
+- [abm3102 dosya sistem analizi](abm3102-dosya-sistem-analizi.md)
+- [abm3104 adli bilisim i ncelemeleri](abm3104-adli-bilisim-i-ncelemeleri.md)
+- [abm3106 bilgi cikarim sistemleri](abm3106-bilgi-cikarim-sistemleri.md)
+- [abm3108 veri kurtarma teknikleri](abm3108-veri-kurtarma-teknikleri.md)
+- [abm3110 biyometrik sistemler](abm3110-biyometrik-sistemler.md)
+- [abm3112 optimizasyon teknikleri](abm3112-optimizasyon-teknikleri.md)
+- [abm3114 derin ogrenme](abm3114-derin-ogrenme.md)
+- [abm3116 sayisal yontemler](abm3116-sayisal-yontemler.md)
+- [abm3118 tibbi veri analizi](abm3118-tibbi-veri-analizi.md)
+- [abm3120 sayisal i saret i sleme](abm3120-sayisal-i-saret-i-sleme.md)
+- [abm3122 veri sikistirma](abm3122-veri-sikistirma.md)
+- [abm3124 sizma testi teknikleri](abm3124-sizma-testi-teknikleri.md)
+- [abm3126 dogal dil i sleme](abm3126-dogal-dil-i-sleme.md)
+- [ssd3102 sosyal secmeli ders iv](ssd3102-sosyal-secmeli-ders-iv.md)
