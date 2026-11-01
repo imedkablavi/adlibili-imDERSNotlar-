@@ -7,6 +7,7 @@
 ## Aşama 1: Müfredatı ve ders içeriklerini doğrulama
 
 - [x] 2025 müfredat PDF'sini ana kaynak olarak belirle.
+- [x] ABM1101 için 2020 tarihli eski ABM105 ders içeriğini tarihsel kaynak olarak incele.
 - [x] Zorunlu ve seçmeli dersleri ayır.
 - [x] Dört yılın her dersi için ayrı başlangıç sayfası oluştur.
 - [ ] Bölümün ders içerikleri sayfasındaki açıklamaları ders kodlarıyla eşleştir.
