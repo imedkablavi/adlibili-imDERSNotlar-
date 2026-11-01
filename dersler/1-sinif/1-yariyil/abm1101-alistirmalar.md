@@ -60,7 +60,7 @@ int main() {
         enBuyuk = c;
     }
 
-    std::cout << "En buyuk: " << enBuyuk << '\\n';
+    std::cout << "En buyuk: " << enBuyuk << '\n';
     return 0;
 }
 ~~~
@@ -84,11 +84,11 @@ int main() {
     std::cin >> notDegeri;
 
     if (notDegeri < 0 || notDegeri > 100) {
-        std::cout << "Gecersiz not\\n";
+        std::cout << "Gecersiz not\n";
     } else if (notDegeri >= 60) {
-        std::cout << "Basarili\\n";
+        std::cout << "Basarili\n";
     } else {
-        std::cout << "Basarisiz\\n";
+        std::cout << "Basarisiz\n";
     }
 
     return 0;
@@ -132,7 +132,7 @@ int main() {
             std::cout << "Gecersiz islem";
     }
 
-    std::cout << '\\n';
+    std::cout << '\n';
     return 0;
 }
 ~~~
@@ -158,9 +158,9 @@ int main() {
         (yil % 4 == 0 && yil % 100 != 0);
 
     if (artikYil) {
-        std::cout << "Artik yil\\n";
+        std::cout << "Artik yil\n";
     } else {
-        std::cout << "Artik yil degil\\n";
+        std::cout << "Artik yil degil\n";
     }
 
     return 0;
@@ -185,7 +185,7 @@ int main() {
     std::cin >> n;
 
     if (n < 1) {
-        std::cout << "Pozitif bir sayi girin\\n";
+        std::cout << "Pozitif bir sayi girin\n";
         return 1;
     }
 
@@ -195,7 +195,7 @@ int main() {
         toplam += i;
     }
 
-    std::cout << "Toplam: " << toplam << '\\n';
+    std::cout << "Toplam: " << toplam << '\n';
     return 0;
 }
 ~~~
@@ -215,7 +215,7 @@ int main() {
     for (int i = 1; i <= 10; i++) {
         for (int j = 1; j <= 10; j++) {
             std::cout << i << " x " << j
-                      << " = " << i * j << '\\n';
+                      << " = " << i * j << '\n';
         }
     }
 
@@ -239,7 +239,7 @@ int main() {
     std::cin >> sayi;
 
     if (sayi < 0) {
-        std::cout << "Negatif olmayan bir sayi girin\\n";
+        std::cout << "Negatif olmayan bir sayi girin\n";
         return 1;
     }
 
@@ -250,7 +250,7 @@ int main() {
         sayi /= 10;
     }
 
-    std::cout << "Basamaklar toplami: " << toplam << '\\n';
+    std::cout << "Basamaklar toplami: " << toplam << '\n';
     return 0;
 }
 ~~~
@@ -279,9 +279,9 @@ int main() {
     }
 
     if (asal) {
-        std::cout << "Asal sayi\\n";
+        std::cout << "Asal sayi\n";
     } else {
-        std::cout << "Asal degil\\n";
+        std::cout << "Asal degil\n";
     }
 
     return 0;
@@ -319,9 +319,9 @@ int main() {
         }
     }
 
-    std::cout << "Pozitif: " << pozitif << '\\n';
-    std::cout << "Negatif: " << negatif << '\\n';
-    std::cout << "Sifir: " << sifir << '\\n';
+    std::cout << "Pozitif: " << pozitif << '\n';
+    std::cout << "Negatif: " << negatif << '\n';
+    std::cout << "Sifir: " << sifir << '\n';
 
     return 0;
 }
@@ -346,7 +346,7 @@ int main() {
         std::cin >> notDegeri;
 
         if (notDegeri < 0 || notDegeri > 100) {
-            std::cout << "Gecersiz not.\\n";
+            std::cout << "Gecersiz not.\n";
             return 1;
         }
 
@@ -357,8 +357,8 @@ int main() {
         }
     }
 
-    std::cout << "Ortalama: " << toplam / 5 << '\\n';
-    std::cout << "En buyuk not: " << enBuyuk << '\\n';
+    std::cout << "Ortalama: " << toplam / 5 << '\n';
+    std::cout << "En buyuk not: " << enBuyuk << '\n';
 
     return 0;
 }
